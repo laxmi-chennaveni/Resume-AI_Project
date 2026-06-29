@@ -32,7 +32,6 @@ PyPDF2==3.0.1
 python-barcode==0.14.0
 python-dateutil==2.9.0.post0
 python-Levenshtein==0.27.1
-pywin32==308
 pyzmq==26.2.0
 qrcode==5.3
 RapidFuzz==3.13.0
